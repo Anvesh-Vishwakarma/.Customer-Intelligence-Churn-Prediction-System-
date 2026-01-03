@@ -1,1 +1,1 @@
-# .Customer-Intelligence-Churn-Prediction-System-
+Built an end-to-end Customer Intelligence System to analyze customer behavior, perform data-driven churn prediction, and generate actionable business insights using machine learning and exploratory data analysis.
